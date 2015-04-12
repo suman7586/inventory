@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.ethnikyarn"
+        versionCode="10"
+        version   = "1.0.0">
+
+    <name>ethnikyarn</name>
+
+    <description>
+        An inventory system.
+    </description>
+
+    <author href="http://ethnikyarn.com" email="suman.wrc@gmail.com">
+        Suman Chakraborty
+    </author>
+
+    <access origin="*"/>
+   
+</widget>
